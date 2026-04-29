@@ -33,7 +33,7 @@ export const Home = () => (
         <p style={{ fontSize: '1.1rem', color: '#ccc', lineHeight: '1.8' }}>
           Hi, I'm <span style={{ color: '#fff', fontWeight: 700 }}>TDX</span>. I'm a Roblox scripter with <br />
           <span style={{ fontSize: '2.5rem', color: '#fff', fontWeight: 900, display: 'block', margin: '0.5rem 0' }}>4+ YEARS</span>
-          of experience in <span style={{ color: '#fff', fontWeight: 700 }}>LUA</span>.
+          of experience in <span style={{ color: '#fff', fontWeight: 700 }}>LUAU</span>.
         </p>
         <p style={{ marginTop: '1.5rem', color: '#aaa', fontSize: '1rem', textAlign: 'left' }}>
           I'm a fairly fast, experienced, trustworthy, and passionate scripter that has been on the platform for more than 4 years, I assure to keep my scripts optimized and easy to read. In my 4 years of experience, I've gained a high understanding of the engine and worked for many up-coming games/projects. I am primarily known for my discord server "TDX Scripting" where I provide various amounts of high-quality examples, breakdown of my scripts, and script showcases.
